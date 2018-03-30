@@ -1,6 +1,6 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六書統
-#+DATE: 2018-03-30 13:56:25.853397
+#+DATE: 2018-03-30 14:14:36.219477
 #+PROPERTY: ID KR1j0037
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
@@ -1962,7 +1962,7 @@
 (良涉切搚也从辵巤聲)¶
 ¶
 ¶
-(几質切近也从辵&ZX-112815;聲古文作兒氏切)¶
+(几質切近也从辵&KR5405;聲古文作兒氏切)¶
 ¶
 　　　　兒氏切近也　　(古闕从辵爾聲)　　　文　¶
 ¶
